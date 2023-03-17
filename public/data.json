@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Fred Flintstone",
+        "purchase": "75.00",
+        "dateOfPurchase": "12/15/2022"
+    },
+    {
+        "id": 2,
+        "name": "Fred Flintstone",
+        "purchase": "150.00",
+        "dateOfPurchase": "01/05/2023"
+    },
+    {
+        "id": 3,
+        "name": "Fred Flintstone",
+        "purchase": "20.00",
+        "dateOfPurchase": "02/14/2023"
+    },
+    {
+        "id": 4,
+        "name": "Fred Flintstone",
+        "purchase": "75.00",
+        "dateOfPurchase": "12/15/2022"
+    },
+    {
+        "id": 5,
+        "name": "Fred Flintstone",
+        "purchase": "150.00",
+        "dateOfPurchase": "01/05/2023"
+    },
+    {
+        "id": 6,
+        "name": "Fred Flintstone",
+        "purchase": "35.00",
+        "dateOfPurchase": "02/14/2023"
+    }
+]
